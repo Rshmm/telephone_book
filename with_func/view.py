@@ -3,7 +3,7 @@ from with_func.Modul import *
 
 while True:
     print("\n1. add contact \n2. remove contact \n3. edit contact \n4. search contact \n5. show all \n6. exit")
-    choice = input("انتخاب کنید: ")
+    choice = input("enter your choice : ")
 
     if choice == "1":
         name = input("Enter contact name : ")
